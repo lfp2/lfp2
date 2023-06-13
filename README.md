@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lavínia Paganini (she/her), I'm from Brazil 🇧🇷. I'm currently a Master's student of Computer Science at the Universidade Federal de Pernambuco.
-I love hackathons and the ability to create projects in a short-time frame. 💻 However, during my time at these events, I noticed a small amount of women joining - so I co-created [Hack Grrrl](https://hackgrrrl.com/).
-I also make [research](https://scholar.google.com/citations?user=FfyAp2AAAAAJ)📜 about gender diversity in hackathons and STEM.
+My name is Lavínia Paganini (she/her), I'm from Brazil 🇧🇷. I live in the Netherlands 🇳🇱, as a PhD in Mathematics and Computer Science at TU/e.
+I love hackathons and the ability to create projects in a short-time frame. 💻 However, while at these events, I noticed a few women joining - so I co-created [Hack Grrrl](https://hackgrrrl.com/).
+I also do [research](https://scholar.google.com/citations?user=FfyAp2AAAAAJ)📜 about gender diversity in hackathons and STEM.
 - 😄 Pronouns: She/her
